@@ -9,28 +9,20 @@
    ============================================================ */
 const daftarMisi = [
   {
-    judul: "Pelayanan Kesehatan Warga",
-    teks: "Lorem ipsum dolor sit amet, meningkatkan layanan kesehatan agar mudah dijangkau seluruh warga desa tanpa terkecuali."
+    judul: "Meningkatkan Pemerataan Pembangunan",
+    teks: "Memastikan pembangunan infrastruktur dan fasilitas desa dirasakan secara merata oleh seluruh warga Paslaten — tidak ada wilayah yang tertinggal."
   },
   {
-    judul: "Pendidikan Anak Desa",
-    teks: "Lorem ipsum dolor sit amet, memastikan anak-anak desa mendapat akses pendidikan yang layak dan berkualitas."
+    judul: "Meningkatkan Pemberdayaan SDM",
+    teks: "Memberikan kesempatan seluas-luasnya bagi seluruh lapisan masyarakat untuk meningkatkan kualitas sumber daya manusia demi mencapai tujuan bersama."
   },
   {
-    judul: "Pertanian & Ekonomi Lokal",
-    teks: "Lorem ipsum dolor sit amet, mendukung petani dan usaha kecil warga agar ekonomi desa semakin mandiri."
+    judul: "Meningkatkan Pertumbuhan Ekonomi Masyarakat",
+    teks: "Mendorong kemandirian ekonomi warga melalui pemberdayaan usaha lokal, pertanian, dan peningkatan pendapatan masyarakat Paslaten secara berkelanjutan."
   },
   {
-    judul: "Jalan & Infrastruktur",
-    teks: "Lorem ipsum dolor sit amet, perbaikan jalan, jembatan, dan fasilitas umum demi kenyamanan seluruh warga."
-  },
-  {
-    judul: "Pemerintahan Terbuka",
-    teks: "Lorem ipsum dolor sit amet, mengelola keuangan desa secara jujur dan transparan bersama masyarakat."
-  },
-  {
-    judul: "Pemberdayaan Perempuan & Pemuda",
-    teks: "Lorem ipsum dolor sit amet, memberikan ruang dan kesempatan bagi perempuan serta generasi muda untuk berkembang."
+    judul: "Pemberian Dana Santunan Duka",
+    teks: "Memberikan santunan kepada keluarga warga yang berduka sebagai bentuk kepedulian nyata pemerintah desa kepada seluruh masyarakat Paslaten."
   },
 ];
 
@@ -42,28 +34,28 @@ const daftarMisi = [
    ============================================================ */
 const activities = [
   {
-    title: "Gotong Royong Bersih Desa",
+    title: "Gotong Royong Bersih Desa Paslaten",
     date: "12 Mei 2026",
     image: "https://placehold.co/640x420/C0000A/FFF5EC?text=Gotong+Royong",
-    description: "Turun langsung bersama warga membersihkan lingkungan desa. Ratusan orang bergotong royong membersihkan saluran air dan fasilitas umum."
+    description: "Jeffry Jendry Kumontoy turun langsung bersama ratusan warga Paslaten membersihkan lingkungan desa dan saluran air secara bergotong royong."
   },
   {
     title: "Silaturahmi dengan Tokoh Masyarakat",
     date: "8 Mei 2026",
     image: "https://placehold.co/640x420/3D2B1A/FFF5EC?text=Silaturahmi",
-    description: "Mendengar langsung aspirasi tokoh agama, adat, dan pemuda. Setiap suara warga dicatat dan dijadikan dasar program kerja nyata."
+    description: "Mendengar langsung aspirasi tokoh agama, tokoh adat, dan pemuda Paslaten. Setiap masukan dicatat dan dijadikan dasar program kerja nyata."
   },
   {
-    title: "Sosialisasi Kesehatan Ibu & Anak",
+    title: "Sosialisasi Program kepada Warga",
     date: "3 Mei 2026",
-    image: "https://placehold.co/640x420/850007/FFF5EC?text=Kesehatan+Desa",
-    description: "Penyuluhan kesehatan gratis bagi ibu hamil dan balita. Bekerja sama dengan tenaga kesehatan setempat untuk pelayanan langsung."
+    image: "https://placehold.co/640x420/850007/FFF5EC?text=Sosialisasi",
+    description: "Pemaparan visi, misi, dan program kerja langsung kepada warga Paslaten. Warga diajak berdialog dan menyampaikan harapan mereka untuk desa."
   },
   {
-    title: "Kunjungan Petani Lokal",
+    title: "Kunjungan ke Warga dan Petani Lokal",
     date: "28 April 2026",
-    image: "https://placehold.co/640x420/4a0004/FFF5EC?text=Petani+Lokal",
-    description: "Mendatangi langsung lahan pertanian warga untuk mendengar kendala di lapangan dan mencari solusi bersama kelompok tani."
+    image: "https://placehold.co/640x420/4a0004/FFF5EC?text=Kunjungan+Warga",
+    description: "Mendatangi langsung rumah warga dan lahan petani Paslaten untuk mendengar kendala sehari-hari dan mencari solusi bersama di lapangan."
   },
 ];
 
@@ -73,12 +65,12 @@ const activities = [
    CARA EDIT: Ganti URL gambar dan keterangan
    ============================================================ */
 const galeri = [
-  { src: "https://placehold.co/600x600/C0000A/FFF5EC?text=Bersama+Warga",   ket: "Bersama Warga" },
-  { src: "https://placehold.co/600x600/3D2B1A/FFF5EC?text=Gotong+Royong",   ket: "Gotong Royong" },
-  { src: "https://placehold.co/600x600/850007/FFF5EC?text=Kampanye+Desa",   ket: "Kampanye Desa" },
-  { src: "https://placehold.co/600x600/4a0004/FFF5EC?text=Kunjungan",       ket: "Kunjungan Lapangan" },
-  { src: "https://placehold.co/600x600/C0000A/FFF5EC?text=Rapat+Warga",     ket: "Rapat Warga" },
-  { src: "https://placehold.co/600x600/1C1007/FFF5EC?text=Panen+Bersama",   ket: "Panen Bersama" },
+  { src: "https://placehold.co/600x600/C0000A/FFF5EC?text=Bersama+Warga+Paslaten", ket: "Bersama Warga Paslaten" },
+  { src: "https://placehold.co/600x600/3D2B1A/FFF5EC?text=Gotong+Royong",          ket: "Gotong Royong" },
+  { src: "https://placehold.co/600x600/850007/FFF5EC?text=Kampanye+Desa",          ket: "Kampanye Desa Paslaten" },
+  { src: "https://placehold.co/600x600/4a0004/FFF5EC?text=Kunjungan+Warga",        ket: "Kunjungan Warga" },
+  { src: "https://placehold.co/600x600/C0000A/FFF5EC?text=Rapat+Warga",            ket: "Rapat Warga" },
+  { src: "https://placehold.co/600x600/1C1007/FFF5EC?text=Kegiatan+Sosial",        ket: "Kegiatan Sosial" },
 ];
 
 
