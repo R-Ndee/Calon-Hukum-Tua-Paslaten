@@ -35,25 +35,25 @@ const daftarMisi = [
 const activities = [
   {
     title: "Gotong Royong Bersih Desa Paslaten",
-    date: "12 Mei 2026",
+    date: "2026",
     image: "https://placehold.co/640x420/C0000A/FFF5EC?text=Gotong+Royong",
     description: "Jeffry Jendry Kumontoy turun langsung bersama ratusan warga Paslaten membersihkan lingkungan desa dan saluran air secara bergotong royong."
   },
   {
     title: "Silaturahmi dengan Tokoh Masyarakat",
-    date: "8 Mei 2026",
+    date: "2026",
     image: "https://placehold.co/640x420/3D2B1A/FFF5EC?text=Silaturahmi",
     description: "Mendengar langsung aspirasi tokoh agama, tokoh adat, dan pemuda Paslaten. Setiap masukan dicatat dan dijadikan dasar program kerja nyata."
   },
   {
     title: "Sosialisasi Program kepada Warga",
-    date: "3 Mei 2026",
+    date: "2026",
     image: "https://placehold.co/640x420/850007/FFF5EC?text=Sosialisasi",
     description: "Pemaparan visi, misi, dan program kerja langsung kepada warga Paslaten. Warga diajak berdialog dan menyampaikan harapan mereka untuk desa."
   },
   {
     title: "Kunjungan ke Warga dan Petani Lokal",
-    date: "28 April 2026",
+    date: "2026",
     image: "https://placehold.co/640x420/4a0004/FFF5EC?text=Kunjungan+Warga",
     description: "Mendatangi langsung rumah warga dan lahan petani Paslaten untuk mendengar kendala sehari-hari dan mencari solusi bersama di lapangan."
   },
