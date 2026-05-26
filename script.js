@@ -65,12 +65,12 @@ const activities = [
    CARA EDIT: Ganti URL gambar dan keterangan
    ============================================================ */
 const galeri = [
-  { src: "images/galeri/image1.png", ket: "Bersama Warga Paslaten" },
-  { src: "https://placehold.co/600x600/3D2B1A/FFF5EC?text=Gotong+Royong",          ket: "Gotong Royong" },
-  { src: "https://placehold.co/600x600/850007/FFF5EC?text=Kampanye+Desa",          ket: "Kampanye Desa Paslaten" },
-  { src: "https://placehold.co/600x600/4a0004/FFF5EC?text=Kunjungan+Warga",        ket: "Kunjungan Warga" },
-  { src: "https://placehold.co/600x600/C0000A/FFF5EC?text=Rapat+Warga",            ket: "Rapat Warga" },
-  { src: "https://placehold.co/600x600/1C1007/FFF5EC?text=Kegiatan+Sosial",        ket: "Kegiatan Sosial" },
+  { src: "images/galeri/image1.png", ket: "Jalan Bersama Masyarakat" },
+  { src: "images/galeri/image2.jpeg",          ket: "Antusiasme Masyarakat Meramaikan Posko" },
+  { src: "images/galeri/image3.jpeg",          ket: "Keseharian di Posko" },
+  { src: "images/galeri/image4.jpeg",        ket: "" },
+  { src: "https://placehold.co/600x600/C0000A/FFF5EC?text=Rapat+Warga",            ket: "" },
+  { src: "https://placehold.co/600x600/1C1007/FFF5EC?text=Kegiatan+Sosial",        ket: "" },
 ];
 
 
